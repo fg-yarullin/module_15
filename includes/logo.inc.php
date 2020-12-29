@@ -1,0 +1,1 @@
+<img src="../img/male-avatar.png" alt="photo">
